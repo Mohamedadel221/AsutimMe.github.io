@@ -1,0 +1,31 @@
+{
+  "user": [
+    {
+      "id": "6074",
+      "name": "Mohamed Adel Zaky",
+      "email": "mohamedadelZaky@gmail.com",
+      "pass": "123456789@"
+    },
+    {
+      "name": "MohamedAdel",
+      "email": "mohamed@gmail.com",
+      "pass": "1234567892",
+      "id": "f389"
+    },
+    {
+      "name": "fadyaymann",
+      "email": "fadyayman@gmail.com",
+      "pass": "fady1234",
+      "id": "f929"
+    }
+  ],
+  "location": [
+    {
+      "id": "673e",
+      "name": "GrowthInsi",
+      "phone": "01273530123",
+      "adress": "Banhacity",
+      "userId": "f929"
+    }
+  ]
+}
